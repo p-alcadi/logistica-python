@@ -5,13 +5,13 @@ O PCV visa determinar a menor rota entre localidades, sendo crucial para setores
 
 Nota: Esta é uma expansão de um projeto anterior, no qual usei Nearest Neighbor em Excel e VBA para resolver um problema logístico durante o processo seletivo da Voll Júnior, onde sou Diretor de Projetos.
 
-- ✅ Importar a base de dados de endereços do Kaggle;
-- ✅ Transformar a base de dados;
-- ✅ Converter os endereços para coordenadas geográficas;
-- ✅ Calcular as distâncias geográficas entre cada par de endereços;
-- ✅ Montar a matriz de distâncias (matriz quadrada contendo as distâncias entre todos os pares);
-- ✅ Solucionar com o método Brute Force;
-- ✅ Solucionar com o método Nearest Neighbor (NN);
+- [x] Importar a base de dados de endereços do Kaggle;
+- [x] Transformar a base de dados;
+- [x] Converter os endereços para coordenadas geográficas;
+- [x] Calcular as distâncias geográficas entre cada par de endereços;
+- [x] Montar a matriz de distâncias (matriz quadrada contendo as distâncias entre todos os pares);
+- [x] Solucionar com o método Brute Force;
+- [x] Solucionar com o método Nearest Neighbor (NN);
 - [ ] Solucionar com o método Branch and Bound;
 - [ ] Solucionar com o método do Algoritmo de Christofides;
 - [2/4] Comparar graficamente cada solução.
